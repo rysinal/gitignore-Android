@@ -1,2 +1,2 @@
 # gitignore-Android
-android版gitignore
+android studio版gitignore
